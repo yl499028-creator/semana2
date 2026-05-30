@@ -1,0 +1,8 @@
+Las APIs pueden ayudar a las comunidades a compartir información de manera organizada porque permiten que diferentes aplicaciones y sistemas se comuniquen entre sí y compartan datos automáticamente.
+
+Por ejemplo:
+Reportes comunitarios: Los habitantes pueden enviar reportes sobre problemas como daños en vías, falta de agua o basuras, y una API los almacena en una base de datos central.
+Alertas rápidas: Una API puede enviar notificaciones a celulares o aplicaciones cuando haya emergencias,lluvias fuertes o situaciones de riesgo.
+Intercambio de información: Diferentes organizaciones pueden consultar y actualizar datos sin necesidad de escribir la información varias veces.
+Mejor organización: Toda la información queda registrada en un mismo lugar, facilitando su búsqueda y seguimiento.
+Transparencia: Los miembros de la comunidad pueden consultar el estado de sus reportes y conocer las acciones realizadas.

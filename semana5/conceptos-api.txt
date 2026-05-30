@@ -1,0 +1,11 @@
+recibe un mensaje enviado por un usuario y responde confirmando que el reporte fue recibido. Toma el contenido del campo mensaje y lo devuelve junto con un estado de confirmación.
+
+Esta ruta podría utilizarse para:
+
+Recibir reportes de problemas en la comunidad, como daños en calles o alumbrado público.
+Registrar alertas sobre emergencias, inundaciones o deslizamientos.
+Permitir que los ciudadanos informen necesidades o solicitudes a líderes comunitarios.
+Recoger sugerencias para mejorar servicios o actividades de la comunidad.
+Centralizar la información enviada por los habitantes para facilitar su seguimiento.
+
+Ejemplo: Si una persona envía el mensaje "La cancha del barrio necesita mantenimiento", la aplicación recibe el reporte y confirma que fue registrado, permitiendo que los responsables revisen la situación posteriormente.

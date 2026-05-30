@@ -1,0 +1,3 @@
+en  la  primera ruta  me sale  servidor activo
+segunda ruta me sale  hola comunidad
+tercera ruta  hola yuri en mi caso espesifico
